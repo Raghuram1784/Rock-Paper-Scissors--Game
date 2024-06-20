@@ -16,17 +16,13 @@ This project is a classic Rock Paper Scissors game implemented using HTML, CSS, 
 # How to Play
 
 <ul>
-  <ol>
-    Click on one of the images (rock, paper, or scissors) to make your choice.<br>
-    The computer will randomly select its choice.<br>
-    The result of the game will be displayed:<br>
-    <li>
-        If you win, a message like "You win! Your [choice] beats [computer's choice]" will be shown.<br>
-        If you lose, a message like "You lose! [Computer's choice] beats your [choice]" will be shown.<br>
-        If it's a draw, a message "Game was Draw. Play again." will be displayed.<br>
-    </li>
-    Scores will be updated accordingly after each round.<br>
-    Click on another image to play another round.
-</ol>
+  <ol>Click on one of the images (rock, paper, or scissors) to make your choice.</ol>
+  <ol>The computer will randomly select its choice.</ol>
+  <ol>The result of the game will be displayed:</ol>
+    <li>If you win, a message like "You win! Your [choice] beats [computer's choice]" will be shown.</li>
+    <li>If you lose, a message like "You lose! [Computer's choice] beats your [choice]" will be shown.</li>
+    <li>If it's a draw, a message "Game was Draw. Play again." will be displayed.</li>
+   <ol>Scores will be updated accordingly after each round.</ol>
+   <ol>Click on another image to play another round.</ol>
 </ul>
 
